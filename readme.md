@@ -1,15 +1,8 @@
-# Project Name
+# Docs
 
-Here's a short description of our project.
+In this repository, you can find the following:
 
-## Contents
-
-* [1: What is [project-name]?](https://github.com/csci-3308-6/csci-3308-6#1-what-is-project-name)
-* [2: Quick Start](https://github.com/csci-3308-6/csci-3308-6/blob/master/readme.md#2-quick-start)
-* [3: Documentation](https://github.com/csci-3308-6/csci-3308-6/blob/master/readme.md#3-documentation)
-
-## 1: What is [project-name]?
-
-## 2: Quick Start
-
-## 3: Documentation
+1. meetings - Minutes from meetings 
+* plans - Work Breakdown Structure, etc.
+* resources - Coding conventions, code checklist, notes on versioning, etc.
+* templates - issue, meeting, QA test, status report, etc.
